@@ -1,5 +1,3 @@
-<pre>
-<code>
 # Geschichten API
 
 Die Geschichten API liefert zufällige Geschichten im JSON-Format, inklusive Titel, Text, Bild-URL und Audio-URL.
@@ -59,5 +57,3 @@ Fehler werden als JSON-Objekte zurückgegeben, die ein `error`-Feld enthalten, w
   "error": "API-Schlüssel fehlt oder ist ungültig."
 }
 ```
-</code>
-</pre>
